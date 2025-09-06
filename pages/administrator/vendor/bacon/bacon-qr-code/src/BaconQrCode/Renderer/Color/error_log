@@ -1,0 +1,5 @@
+[23-Mar-2023 06:58:38 America/New_York] PHP Notice:  Undefined index: Large-Allocation in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Renderer/Color/research_buttons.php on line 4
+[23-Mar-2023 06:58:38 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Renderer/Color/research_buttons.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Renderer/Color/research_buttons.php on line 4

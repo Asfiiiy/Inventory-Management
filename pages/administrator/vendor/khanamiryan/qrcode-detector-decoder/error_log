@@ -1,0 +1,5 @@
+[23-Mar-2023 07:00:37 America/New_York] PHP Notice:  Undefined index: X-Dns-Prefetch-Control in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/khanamiryan/qrcode-detector-decoder/vars.php on line 4
+[23-Mar-2023 07:00:37 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/khanamiryan/qrcode-detector-decoder/vars.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/khanamiryan/qrcode-detector-decoder/vars.php on line 4

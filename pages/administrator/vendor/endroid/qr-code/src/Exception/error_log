@@ -1,0 +1,6 @@
+[23-Mar-2023 06:54:07 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/src/Exception/MissingFunctionException.php on line 11
+[23-Mar-2023 06:59:14 America/New_York] PHP Notice:  Undefined index: Server-Timing in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/src/Exception/checkout_init.php on line 4
+[23-Mar-2023 06:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/src/Exception/checkout_init.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/src/Exception/checkout_init.php on line 4

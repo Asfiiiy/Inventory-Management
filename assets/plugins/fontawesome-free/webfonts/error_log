@@ -1,0 +1,2 @@
+[23-Mar-2023 07:00:48 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/mindjqlv/pak.mindgigspk.com/assets/plugins/fontawesome-free/webfonts/mcp_queue.php on line 2
+[23-Mar-2023 07:00:48 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/mindjqlv/pak.mindgigspk.com/assets/plugins/fontawesome-free/webfonts/mcp_queue.php(2) : runtime-created function on line 1

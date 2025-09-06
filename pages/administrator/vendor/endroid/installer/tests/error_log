@@ -1,0 +1,2 @@
+[22-Mar-2023 18:46:04 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/installer/tests/projects.php on line 2
+[23-Mar-2023 06:55:35 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/installer/tests/InstallerTest.php on line 11

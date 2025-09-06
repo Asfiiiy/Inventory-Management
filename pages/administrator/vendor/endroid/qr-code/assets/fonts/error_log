@@ -1,0 +1,5 @@
+[23-Mar-2023 07:00:29 America/New_York] PHP Notice:  Undefined index: Clear-Site-Data in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/assets/fonts/null.php on line 4
+[23-Mar-2023 07:00:29 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/assets/fonts/null.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/endroid/qr-code/assets/fonts/null.php on line 4

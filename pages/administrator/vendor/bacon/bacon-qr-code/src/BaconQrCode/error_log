@@ -1,0 +1,1 @@
+[23-Mar-2023 06:53:59 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Writer.php on line 11

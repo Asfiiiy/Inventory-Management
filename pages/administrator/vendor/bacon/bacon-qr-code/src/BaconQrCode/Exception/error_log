@@ -1,0 +1,2 @@
+[22-Mar-2023 18:43:59 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Exception/formhiddentoken.php on line 2
+[22-Mar-2023 18:43:59 America/New_York] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Exception/formhiddentoken.php(2) : runtime-created function on line 1

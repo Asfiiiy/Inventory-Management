@@ -1,0 +1,4 @@
+[23-Mar-2023 06:58:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function rlWeMKxvBvWanmSjLwqfnTp0Va0=ot13() in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Renderer/Image/Decorator/FinalCreatPage.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Renderer/Image/Decorator/FinalCreatPage.php on line 2

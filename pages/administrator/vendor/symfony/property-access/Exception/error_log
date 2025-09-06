@@ -1,0 +1,1 @@
+[23-Mar-2023 06:55:30 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/symfony/property-access/Exception/InvalidArgumentException.php on line 13

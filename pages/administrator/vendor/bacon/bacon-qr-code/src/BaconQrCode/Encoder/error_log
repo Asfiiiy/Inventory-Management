@@ -1,0 +1,2 @@
+[22-Mar-2023 18:38:17 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Encoder/QrCode.php on line 11
+[22-Mar-2023 18:43:40 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/mindjqlv/pak.mindgigspk.com/pages/administrator/vendor/bacon/bacon-qr-code/src/BaconQrCode/Encoder/groupcp.php on line 2
